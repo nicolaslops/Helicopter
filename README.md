@@ -60,6 +60,8 @@ cd HELICOPTER
 
 3. Abra o arquivo index.html em seu navegador de preferência para pilotar o helicóptero e realizar os lançamentos.
 
+---
+
 ## Estrutura do Projeto
 
 ```text
